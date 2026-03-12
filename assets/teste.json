@@ -1,0 +1,18 @@
+{
+  "id": "teste_01",
+  "text": [
+    "A chuva cai sobre Pristina.",
+    "John olha para a casa de Aya.",
+    "Algo o espera do outro lado da porta."
+  ],
+  "choices": [
+    {
+      "label": "Entrar na casa",
+      "goto": "cena_02"
+    }
+  ],
+  "audio": {
+    "music": "chuva.mp3",
+    "sfx": ""
+  }
+}
